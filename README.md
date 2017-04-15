@@ -9,17 +9,25 @@
 
 ###### Features of a Neural Network Included:    
 - [x] Graphs
-- [x] Forward Propagation
-- [x] Learning and Loss
+
+![Topological Sort of Graph](https://github.com/RowlandOti/NeuralNetwork-Framework/tree/master/illustrations/topological_sort.jpeg?raw=true "Topological Sort of Graph")
+
+- [x] Forward and Back Propagation
+
+![Back Propagation](https://github.com/RowlandOti/NeuralNetwork-Framework/tree/master/illustrations/backprop_graph.png?raw=true "Back Propagation")
+
 - [x] Linear Transform
 - [x] Sigmoid Activation Function
+
+![Sigmoid Activation Function](https://github.com/RowlandOti/NeuralNetwork-Framework/tree/master/illustrations/sigmoid_activation.png?raw=true "Sigmoid Activation Function")
+
 - [x] Cost
 - [x] Gradient Descent
-- [x] Back Propagation
 - [x] Stochastic Gradient Descent
+- [x] Learning and Loss
 
+![Gradient Descent Convergence](https://github.com/RowlandOti/NeuralNetwork-Framework/tree/master/illustrations/gradient_descent_convergence.gif?raw=true "Gradient Descent Convergence")
 
-![Back Propagation Graph](https://github.com/RowlandOti/NeuralNetwork-Framework/tree/master/illustrations/backprop_graph.png?raw=true "Back Propagation Graph")
 
  
 
